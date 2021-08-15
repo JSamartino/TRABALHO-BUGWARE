@@ -5,9 +5,40 @@
 
 }
 
-#foto_capa{
-	width: 200px;
-	height: 420px
+
+#historia{
+	text-align: center;
+	margin-top:120px;
+
+}
+
+h1{
+	font-size: 48px;
+	font-family: Montserrat ;
+	padding-bottom: 35px;
+
+}
+#texto1{
+	text-align: center;
+	font-family: 'Segoe UI';
+	font-size: 15px;
 
 
+}
+#historia_pt2{
+	
+
+
+}
+.conteudo{
+	float: left;
+	border: 1px solid red;
+	width: 500px;
+	text-align: center;
+
+}
+.cor_objeto{
+	color: #A7FBD3;
+	font-size: 3em;
+	padding-bottom: 15px;
 }
