@@ -12,7 +12,7 @@
 
 }
 
-h1{
+h1 ,h2{
 	font-size: 48px;
 	font-family: Montserrat ;
 	padding-bottom: 35px;
@@ -36,17 +36,21 @@ background-color:#F8F8FF;
 }
 .conteudo{
 	float: left;
-	width: 300px;
+	width:504px;
 	text-align: center;
-	margin-top: 150px;
-	margin-left: 155px;
+	margin-top: 100px;
+
+	
+
+
 
 
 }
 .cor_objeto{
 	color: #A7FBD3;
 	font-size: 3em;
-	padding-bottom: 15px;
+	padding-bottom: 25px;
+
 }
 p{
 	color: 	#A9A9A9;	
@@ -54,12 +58,15 @@ p{
 	font-size: 15px;
 }
 #movimento_junior{
-	margin-top: 450px;
-
+	margin-top: 550px;
+	
 
 }
 #foto_mej{
-	text-align: center;
-	margin-left: 600px;
-
+ 	float:right;
+ 	margin-right:150px;
 }
+ #formatexto{
+ 	float:left;
+ 	margin-left: 150px;
+ }
