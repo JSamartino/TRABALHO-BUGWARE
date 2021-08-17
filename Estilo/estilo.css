@@ -14,17 +14,17 @@
 
 h1 ,h2{
 	font-size: 48px;
-	font-family: Montserrat ;
+	font-family: "Segoe UI" ;
 	padding-bottom: 35px;
 
 }
 h4{
-	font-family: Montserrat;
+	font-family: "Segoe UI";
 
 }
 #texto1{
 	text-align: center;
-	font-family: 'Segoe UI';
+	font-family: "Segoe UI";
 	font-size: 15px;
 
 
@@ -54,19 +54,61 @@ background-color:#F8F8FF;
 }
 p{
 	color: 	#A9A9A9;	
-	font-family:  'Segoe UI'sans-serif;
+	font-family:  "Segoe UI"sans-serif;
 	font-size: 15px;
 }
 #movimento_junior{
-	margin-top: 550px;
-	
-
+	margin-top: 450px;
+   
+   	height: 800px;
+   	width: 1530px;
+   	background:	#F1F3F3;
 }
+
+
 #foto_mej{
  	float:right;
- 	margin-right:150px;
+ 	margin-right:205px;
+ 	padding-top: 170px;
+
+
 }
  #formatexto{
+ 	padding-top:170px;
  	float:left;
- 	margin-left: 150px;
+ 	margin-left: 205px;
+ 	
+  
+ 	
  }
+ #formatexto a {
+	text-decoration: none;
+	font-size: 25px;
+	color: #A7FBD3;
+	background: #3E194D;
+	margin-bottom: 70px;
+	padding: 15px;
+}
+#formatexto a:hover{
+	background: #9400D3;
+
+
+}
+#formatexto p {
+	padding-bottom: 70px;
+
+
+}
+.tamanho_diamante{
+	color: #A7FBD3;
+	font-size: 0.75em;
+
+
+}
+
+#comentarios {
+	
+    
+
+
+}
