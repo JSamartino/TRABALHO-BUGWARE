@@ -18,7 +18,7 @@ h1 ,h2{
 	padding-bottom: 35px;
 
 }
-h4{
+h4,h5{
 	font-family: "Segoe UI";
 
 }
@@ -36,7 +36,7 @@ background-color:#F8F8FF;
 }
 .conteudo{
 	float: left;
-	width:504px;
+	width:503px;
 	text-align: center;
 	margin-top: 100px;
 
@@ -59,7 +59,6 @@ p{
 }
 #movimento_junior{
 	margin-top: 450px;
-   
    	height: 800px;
    	width: 1530px;
    	background:	#F1F3F3;
@@ -106,9 +105,47 @@ p{
 
 }
 
-#comentarios {
-	
-    
 
+#cabeçalho{
+	margin-top: 150px;
+	text-align: center;	
+
+}
+.feedback{
+	margin-top: 60px;
+	float: left;
+	text-align: center;
+	width: 503px;
+	margin-bottom: 160px;
+
+}
+.feedback img {
+	margin-top: 25px;
+	width: 60px;
+	height: 57px;
+	padding-right: 15px;
+		
+
+}
+.feedback table {
+ margin-left: 150px;
+ margin-right:100px;
+ 
+}
+
+#Contato{
+	
+	margin-top: 450px;
+	background:#3E194D;
+	border: 1px solid red;
+	width: 1550px;
+	height: 900px;
+}
+#container1 image{
+	width: 9px;
+	height: 5px;
+}
+#container1{
+	
 
 }
