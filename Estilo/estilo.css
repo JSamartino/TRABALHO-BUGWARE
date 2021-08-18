@@ -50,6 +50,7 @@ background-color:#F8F8FF;
 	color: #A7FBD3;
 	font-size: 3em;
 	padding-bottom: 25px;
+	margin: 5px;
 
 }
 p{
@@ -111,6 +112,11 @@ p{
 	text-align: center;	
 
 }
+#cabeçalho h1{
+		font-size: 80px;
+
+}
+
 .feedback{
 	margin-top: 60px;
 	float: left;
@@ -195,10 +201,18 @@ p{
 
 	background: #3E194D;
 }
-#Enviar {
-	text-align: center;
-	margin-top: 25px;
-	background: #3E194D;
+#Enviar{
+	text-decoration:none;
+	color: #A7FBD3;
+	height: 129px;
+	width: 170px;
 	
+	text-align:center;
+	font-size: 20px;
+	background-color: #3E194D;
+	padding-right: 150px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 
 }
+
